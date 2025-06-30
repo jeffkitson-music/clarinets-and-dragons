@@ -56,6 +56,7 @@ We welcome contributions to the "Clarinets and Dragons" project! If you're inter
 
 This project utilizes the following libraries and resources:
 
+* Music notation is done in [abc notation](https://abcnotation.com/) using [abcjs](https://www.abcjs.net/)
 * [ConfettiJS](https://confetti.js.org/)
 * [sweetalert2](http://sweetalert2.github.io/)
 * [TailwindCSS](https://tailwindCSS.com)
