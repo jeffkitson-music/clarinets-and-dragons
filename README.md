@@ -24,6 +24,8 @@ To read the sample adventures, please explore the [adventures directory](/advent
   <a href="https://clarinet.org"><img src="img/Clarinetfest-2025-Logo-transparent-300x300.png" alt="ClarinetFest 2025 Logo" width="150"/></a>
 </p>
 
+🔍 Looking for the handout or the slides? They're in the [ClarinetFest 2025 directory](/clarinetfest2025)!
+
 ### Abstract: A Pedagogy of Gamification To Reach Disengaged Students
 
 Jayden couldn't be bothered with his clarinet lessons. Traditional teaching strategies weren't working. That is until he became Sir Clarinetto, a hero defending the town of Sharpsburg from all manner of musical mayhem. All it took was a pair of dice and a little creativity.
