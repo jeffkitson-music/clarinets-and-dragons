@@ -826,6 +826,6 @@ function decodeBase64UrlParamToObject(urlSafeBase64) {
 }
 
 // ===== LOAD FUNCTIONS  =====
-loadMusicData("https://jeffkitson-music.github.io/cnd_test2/scales_and_long_tones.json");
+loadMusicData("https://jeffkitson-music.github.io/cnd/scales_and_long_tones.json");
 initialSetup();
 
