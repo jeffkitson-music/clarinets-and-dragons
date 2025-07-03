@@ -1,5 +1,8 @@
 # Clarinets and Dragons Adventures and Lore
 
+## ⚠️🚧 Sample Adventures
+Te sample adventures here are meant to inspire teachers to create their own adventures to fit the unique needs and challenges of every student. They may be used, modified heavily, or ignored completely. Please use whatever fits your teaching context best. In the future, a more formalized structure and offical adventures™ may be added (or not). For now, let your imagination run wild!
+
 ## :card_file_box: How to use these files
 Welcome, Dungeon Masters and Maestros! This directory contains the campaigns, adventures, and lore documents for "Clarinets and Dragons." These files are designed to offer a flexible and engaging experience, whether you're a seasoned Dungeon Master or new to the world of role-playing games.
 It's Not About Dragons (or Strict Rules!): "Clarinets and Dragons" is a pedagogical method crafted to meet students where they are. The game prioritizes engagement over strict adherence to rules. In fact, the very first "CnD" game used only one die and didn't even have a story! The goal is to spark student interest in their lessons (where they might not have had any) through an exciting, adaptable framework.
