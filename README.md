@@ -105,6 +105,6 @@ For questions, collaborations, or more information about "Clarinets and Dragons,
 
 This work is licensed under the [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-nc-sa/4.0/).
 
-Please see a plain English summary on the [license page](LICENSE.md).
+Please see a plain-English summary on the [license page](LICENSE.md).
 
 **TL;DR**: We can sell our content. You can't. You have to credit us if you use it.
