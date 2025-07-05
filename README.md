@@ -46,7 +46,7 @@ While "Clarinets and Dragons" is for teachers and students of all ages, this pre
 
 No, Professor Forte isn't Dumbledore, or Gandalf, or Obi-Wan. Humans love a balance of repetition and contrast in the art that they consume. Stories, games, and music all have familiar patterns (sonata form, anyone?) and tropes where good creators set-up our expectations and then break them in new and exciting ways. 
 
-We suggest you [watch this](https://www.youtube.com/shorts/b675YYkUBuA). Then, if you you're still skeptical or want to learn more, [read this](https://en.wikipedia.org/wiki/Hero%27s_journey) and [this](https://en.wikipedia.org/wiki/The_Seven_Basic_Plots).
+We suggest you [watch this](https://www.youtube.com/shorts/b675YYkUBuA). Then, if you you're still skeptical or want to learn more, read about the [Hero's Journey](https://en.wikipedia.org/wiki/Hero%27s_journey) and the [Seven Basic Plots](https://en.wikipedia.org/wiki/The_Seven_Basic_Plots).
 
 ## 🤝 Contributing
 [![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-2.1-4baaaa.svg)](CODE_OF_CONDUCT.md)
