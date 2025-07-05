@@ -37,8 +37,16 @@ This session will showcase the core mechanics of "Clarinets and Dragons," demons
 While "Clarinets and Dragons" is for teachers and students of all ages, this presentation will be of particular interest to instructors working with students aged 11-15.
 
 ## :scroll: Adventures and Lore
+### Materials
 - For sample adventures, lore, and other game resources please visit the [adventures directory](/adventures).
-- Want to create your own adventures? Go for it! Want to add them officially? See "Contributing" in this guide. 
+- Want to create your own adventures? Go for it! Want to add them officially? See "Contributing" in this guide.
+
+### Criticism
+***"But these adventures are just [HP, LoTR, SW, or other popular adventure series]!"***
+
+No, Professor Forte isn't Dumbledore, or Gandalf, or Obi-Wan. Humans love a balance of repetition and contrast in the art that they consume. Stories, games, and music all have familiar patterns (sonata form, anyone?) and tropes where good creators set-up our expectations and then break them in new and exciting ways. 
+
+We suggest you [watch this](https://www.youtube.com/shorts/b675YYkUBuA). Then, if you you're still skeptical or want to learn more, [read this](https://en.wikipedia.org/wiki/Hero%27s_journey) and [this](https://en.wikipedia.org/wiki/The_Seven_Basic_Plots).
 
 ## 🤝 Contributing
 [![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-2.1-4baaaa.svg)](CODE_OF_CONDUCT.md)
