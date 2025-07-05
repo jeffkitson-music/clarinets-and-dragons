@@ -96,7 +96,7 @@ We'd like to express our gratitude to:
 
 * [The International Clarinet Association](https://clarinet.org) and ClarinetFest® 
 * [Central Community College](https://cccneb.edu)
-* [Northview Public Schools](https://nvps.net)
+* Music Staff at [Northview Public Schools](https://nvps.net)
 * Brandon Bender, English Instructor at Central Community College
 * Shannon MacDonald,  Library Resource Center Supervisor at Central Community College
 * [Blizzard Entertainment](https://blizzard.com) for far too many hours of fun and frustration in [World of Warcraft](https://worldofwarcraft.blizzard.com/en-us/start).
