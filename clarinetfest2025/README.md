@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://clarinet.org"><img src="img/Clarinetfest-2025-Logo-transparent-300x300.png" alt="ClarinetFest 2025 Logo" width="150"/></a>
+  <a href="https://clarinet.org"><img src="../img/Clarinetfest-2025-Logo-transparent-300x300.png" alt="ClarinetFest 2025 Logo" width="150"/></a>
 </p>
 
 # ClarinetFest® 2025
