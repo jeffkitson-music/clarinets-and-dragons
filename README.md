@@ -100,7 +100,7 @@ We'd like to express our gratitude to:
 * Brandon Bender, English Instructor at Central Community College
 * Shannon MacDonald,  Library Resource Center Supervisor at Central Community College
 * [Blizzard Entertainment](https://blizzard.com) for far too many hours of fun and frustration in [World of Warcraft](https://worldofwarcraft.blizzard.com/en-us/start)
-* "Jayden," the clarinet student who inspired CnD when his D&D plans made him too stressed to have his lesson.
+* "Jayden," the clarinet student who inspired CnD when his D&D plans made him too stressed to have his lesson
 * Finally, our alma mater, [Michigan State University College of Music](https://music.msu.edu)
 
 ## ✉️ Contact
