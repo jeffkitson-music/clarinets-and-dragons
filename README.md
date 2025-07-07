@@ -14,7 +14,7 @@
 
 Created by Jeffrey Kitson and Kristin Steelman
 
-To play "Clarinets and Dragons" for yourself: [Game Tracker](https://jeffkitson-music.github.io/cnd).
+To help play "Clarinets and Dragons" yourself, you can use the [Game Tracker](https://jeffkitson-music.github.io/cnd).
 
 To read the sample adventures, please explore the [adventures directory](/adventures).
 
